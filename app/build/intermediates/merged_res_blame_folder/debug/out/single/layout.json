@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Local Disk D\\elaporPenjualan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_pelanggaran.xml",
+        "source": "C:\\Local Disk D\\elaporPenjualan\\app\\src\\main\\res\\layout\\fragment_pelanggaran.xml"
+    },
+    {
+        "merged": "C:\\Local Disk D\\elaporPenjualan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pelanggaran_item_list.xml",
+        "source": "C:\\Local Disk D\\elaporPenjualan\\app\\src\\main\\res\\layout\\pelanggaran_item_list.xml"
+    },
+    {
+        "merged": "C:\\Local Disk D\\elaporPenjualan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbar.xml",
+        "source": "C:\\Local Disk D\\elaporPenjualan\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Local Disk D\\elaporPenjualan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_ambil_foto.xml",
+        "source": "C:\\Local Disk D\\elaporPenjualan\\app\\src\\main\\res\\layout\\activity_ambil_foto.xml"
+    },
+    {
+        "merged": "C:\\Local Disk D\\elaporPenjualan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbar_activity_add_laporan_pelanggaran.xml",
+        "source": "C:\\Local Disk D\\elaporPenjualan\\app\\src\\main\\res\\layout\\toolbar_activity_add_laporan_pelanggaran.xml"
+    },
+    {
+        "merged": "C:\\Local Disk D\\elaporPenjualan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "C:\\Local Disk D\\elaporPenjualan\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Local Disk D\\elaporPenjualan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\informasi_dialog.xml",
+        "source": "C:\\Local Disk D\\elaporPenjualan\\app\\src\\main\\res\\layout\\informasi_dialog.xml"
+    },
+    {
+        "merged": "C:\\Local Disk D\\elaporPenjualan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pilih_gambar_dialog.xml",
+        "source": "C:\\Local Disk D\\elaporPenjualan\\app\\src\\main\\res\\layout\\pilih_gambar_dialog.xml"
+    },
+    {
+        "merged": "C:\\Local Disk D\\elaporPenjualan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_menu.xml",
+        "source": "C:\\Local Disk D\\elaporPenjualan\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Local Disk D\\elaporPenjualan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_laporan_pelanggaran.xml",
+        "source": "C:\\Local Disk D\\elaporPenjualan\\app\\src\\main\\res\\layout\\activity_add_laporan_pelanggaran.xml"
+    }
+]

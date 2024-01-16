@@ -1,0 +1,103 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="elapor.application.com.elapor"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:6:5-81
+11-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:6:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:7:5-80
+12-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:7:22-77
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:8:5-65
+13-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:8:22-62
+14    <uses-permission android:name="android.permission.FLASHLIGHT" />
+14-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:9:5-69
+14-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:9:22-66
+15
+16    <uses-feature android:name="android.hardware.camera" />
+16-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:11:5-60
+16-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:11:19-57
+17    <uses-feature android:name="android.hardware.camera.autofocus" />
+17-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:12:5-70
+17-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:12:19-67
+18
+19    <application
+19-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:16:5-55:19
+20        android:allowBackup="true"
+20-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:17:9-35
+21        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+21-->[com.android.support:support-compat:28.0.0] C:\Users\acer\.gradle\caches\transforms-2\files-2.1\6f81025bcc413a318d3343580ec76047\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+22        android:debuggable="true"
+23        android:icon="@drawable/logowd"
+23-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:18:9-40
+24        android:label="@string/app_name"
+24-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:19:9-41
+25        android:requestLegacyExternalStorage="true"
+25-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:20:9-52
+26        android:roundIcon="@drawable/logowd"
+26-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:21:9-45
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:22:9-40
+29        <activity
+29-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:25:13-36:24
+30            android:name="elapor.application.com.elapor.SplashActivity"
+30-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:26:17-47
+31            android:exported="true"
+31-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:27:17-40
+32            android:theme="@style/AppTheme" >
+32-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:28:17-48
+33            <intent-filter>
+33-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:31:13-35:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:32:17-69
+34-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:32:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:34:17-77
+36-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:34:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:38:9-43:20
+40            android:name="elapor.application.com.elapor.MainActivity"
+40-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:39:13-41
+41            android:configChanges="orientation|keyboardHidden"
+41-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:40:13-63
+42            android:label="@string/app_name"
+42-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:41:13-45
+43            android:screenOrientation="portrait" >
+43-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:42:13-49
+44        </activity>
+45        <activity
+45-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:45:9-49:61
+46            android:name="elapor.application.com.elapor.BuatLaporanPelanggaranActivity"
+46-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:46:13-59
+47            android:configChanges="orientation|keyboardHidden"
+47-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:47:13-63
+48            android:label="@string/app_name"
+48-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:48:13-45
+49            android:screenOrientation="portrait" />
+49-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:49:13-49
+50        <activity
+50-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:50:9-54:61
+51            android:name="elapor.application.com.elapor.AmbilFotoActivity"
+51-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:51:13-46
+52            android:configChanges="orientation|keyboardHidden"
+52-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:52:13-63
+53            android:label="@string/app_name"
+53-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:53:13-45
+54            android:screenOrientation="portrait" />
+54-->C:\Local Disk D\elaporPenjualan\app\src\main\AndroidManifest.xml:54:13-49
+55    </application>
+56
+57</manifest>

@@ -1,0 +1,78 @@
+elapor/application/com/libs/DatabaseHandler.java
+ elapor.application.com.libs.DatabaseHandler
+elapor/application/com/model/version.java
+ elapor.application.com.model.version
+elapor/application/com/model/pelanggaran.java
+ elapor.application.com.model.pelanggaran
+elapor/application/com/libs/ImageLoadingUtils.java
+ elapor.application.com.libs.ImageLoadingUtils
+elapor/application/com/elapor/databinding/FragmentPelanggaranBinding.java
+ elapor.application.com.elapor.databinding.FragmentPelanggaranBinding
+elapor/application/com/elapor/databinding/InformasiDialogBinding.java
+ elapor.application.com.elapor.databinding.InformasiDialogBinding
+elapor/application/com/elapor/BuatLaporanPelanggaranActivity.java
+ elapor.application.com.elapor.BuatLaporanPelanggaranActivity
+ elapor.application.com.elapor.BuatLaporanPelanggaranActivity$1
+ elapor.application.com.elapor.BuatLaporanPelanggaranActivity$2
+ elapor.application.com.elapor.BuatLaporanPelanggaranActivity$3
+ elapor.application.com.elapor.BuatLaporanPelanggaranActivity$4
+ elapor.application.com.elapor.BuatLaporanPelanggaranActivity$5
+ elapor.application.com.elapor.BuatLaporanPelanggaranActivity$6
+elapor/application/com/fragment/PelanggaranFragment.java
+ elapor.application.com.fragment.PelanggaranFragment
+ elapor.application.com.fragment.PelanggaranFragment$1
+elapor/application/com/libs/GalleryFilePath.java
+ elapor.application.com.libs.GalleryFilePath
+elapor/application/com/elapor/databinding/ToolbarActivityAddLaporanPelanggaranBinding.java
+ elapor.application.com.elapor.databinding.ToolbarActivityAddLaporanPelanggaranBinding
+customfonts/MyEditText.java
+ customfonts.MyEditText
+elapor/application/com/elapor/databinding/ActivitySplashBinding.java
+ elapor.application.com.elapor.databinding.ActivitySplashBinding
+elapor/application/com/elapor/BuildConfig.java
+ elapor.application.com.elapor.BuildConfig
+elapor/application/com/adapter/PelanggaranAdapter.java
+ elapor.application.com.adapter.PelanggaranAdapter
+ elapor.application.com.adapter.PelanggaranAdapter$1
+ elapor.application.com.adapter.PelanggaranAdapter$2
+ elapor.application.com.adapter.PelanggaranAdapter$3
+ elapor.application.com.adapter.PelanggaranAdapter$ViewHolder
+elapor/application/com/elapor/databinding/PelanggaranItemListBinding.java
+ elapor.application.com.elapor.databinding.PelanggaranItemListBinding
+elapor/application/com/elapor/AmbilFotoActivity.java
+ elapor.application.com.elapor.AmbilFotoActivity
+ elapor.application.com.elapor.AmbilFotoActivity$1
+ elapor.application.com.elapor.AmbilFotoActivity$2
+ elapor.application.com.elapor.AmbilFotoActivity$3
+ elapor.application.com.elapor.AmbilFotoActivity$4
+ elapor.application.com.elapor.AmbilFotoActivity$5
+ elapor.application.com.elapor.AmbilFotoActivity$6
+ elapor.application.com.elapor.AmbilFotoActivity$SaveImageTask
+elapor/application/com/model/dataitem.java
+ elapor.application.com.model.dataitem
+elapor/application/com/libs/CommonUtilities.java
+ elapor.application.com.libs.CommonUtilities
+elapor/application/com/elapor/databinding/ActivityAmbilFotoBinding.java
+ elapor.application.com.elapor.databinding.ActivityAmbilFotoBinding
+elapor/application/com/elapor/databinding/PilihGambarDialogBinding.java
+ elapor.application.com.elapor.databinding.PilihGambarDialogBinding
+elapor/application/com/libs/Preview.java
+ elapor.application.com.libs.Preview
+elapor/application/com/elapor/databinding/ActivityAddLaporanPelanggaranBinding.java
+ elapor.application.com.elapor.databinding.ActivityAddLaporanPelanggaranBinding
+elapor/application/com/elapor/databinding/ToolbarBinding.java
+ elapor.application.com.elapor.databinding.ToolbarBinding
+customfonts/MyTextView.java
+ customfonts.MyTextView
+elapor/application/com/elapor/databinding/ActivityMenuBinding.java
+ elapor.application.com.elapor.databinding.ActivityMenuBinding
+elapor/application/com/elapor/MainActivity.java
+ elapor.application.com.elapor.MainActivity
+ elapor.application.com.elapor.MainActivity$1
+ elapor.application.com.elapor.MainActivity$2
+ elapor.application.com.elapor.MainActivity$3
+ elapor.application.com.elapor.MainActivity$4
+ elapor.application.com.elapor.MainActivity$5
+elapor/application/com/elapor/SplashActivity.java
+ elapor.application.com.elapor.SplashActivity
+ elapor.application.com.elapor.SplashActivity$1
